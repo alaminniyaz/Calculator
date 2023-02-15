@@ -21,12 +21,12 @@
 .calculator form input {
     border: 0;
     outline: 0;
-    width: 60px;
-    height: 60px;
-    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
     box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
     background: transparent;
-    font-size: 20px;
+    font-size: 40px;
     color: #fff;
     cursor: pointer;
     margin: 10px;
@@ -39,11 +39,11 @@ form .display {
 form .display input {
     text-align: right;
     flex: 1;
-    font-size: 45px;
+    font-size: 55px;
     box-shadow: none;
 }
 form input.equal {
-    width: 145px;
+    width: 225px;
 }
 form input.operator {
     color: #33ffd8;
@@ -65,23 +65,68 @@ p span a{
 }
 
 
-/* Responsive for Small Device */
-@media (max-width: 375px) {
+/* Responsive for Extra Small Device */
+@media (max-width: 320px) {
     .calculator {
-        padding: 10px;
+        padding: 5px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .calculator form input {
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+    }
+    form input.equal {
+        width: 125px;
+    }
+    form .display input {
+        font-size: 40px;
+    }
+}
+
+
+/* Responsive for Small Device */
+@media (min-width: 321px) and (max-width: 359px) {
+    .calculator {
+        padding: 5px;
     }
     p {
         font-size: 17px;
     }
     .calculator form input {
-        width: 48px;
+        width: 50px;
         height: 50px;
-        font-size: 18px;
+        font-size: 20px;
     }
     form input.equal {
-        width: 105px;
+        width: 128px;
     }
     form .display input {
         font-size: 40px;
+    }
+}
+
+
+
+/* Responsive for medium Device */
+@media (min-width: 360px) and (max-width: 535px) {
+    .calculator {
+        padding: 10px;
+    }
+    p {
+        font-size: 19px;
+    }
+    .calculator form input {
+        width: 60px;
+        height: 60px;
+        font-size: 25px;
+    }
+    form input.equal {
+        width: 145px;
+    }
+    form .display input {
+        font-size: 45px;
     }
 }
