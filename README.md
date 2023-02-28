@@ -19,9 +19,12 @@ The following operations are supported:
 * The calculator has a responsive design that adapts to different screen sizes.
 
 ## How it Works
-The calculator is implemented using HTML, CSS and JavaScript. The HTML and CSS are used to create the user interface and the JavaScript is used to implement the functionality of the calculator. The user interface consists of a display section that shows the input and output of the calculations, and a set of buttons that allow the user to enter numbers and perform arithmetic operations.
+* The calculator is implemented using HTML, CSS and JavaScript. 
+* The HTML and CSS are used to create the user interface and the JavaScript is used to implement the functionality of the calculator. 
+* The user interface consists of a display section that shows the input and output of the calculations, and a set of buttons that allow the user to enter numbers and perform arithmetic operations.
 
-When the user clicks on a button, the JavaScript code reads the input from the display section and updates the display accordingly. The JavaScript code also performs the necessary arithmetic operations and updates the display with the result.
+* When the user clicks on a button, the JavaScript code reads the input from the display section and updates the display accordingly. 
+* The JavaScript code also performs the necessary arithmetic operations and updates the display with the result.
 
 ## Preview
 ![preview](https://user-images.githubusercontent.com/104723233/221784987-1998f594-8e3f-406e-8735-0dc159d1855f.jpg)
