@@ -24,4 +24,5 @@ The calculator is implemented using HTML, CSS and JavaScript. The HTML and CSS a
 When the user clicks on a button, the JavaScript code reads the input from the display section and updates the display accordingly. The JavaScript code also performs the necessary arithmetic operations and updates the display with the result.
 
 ## Preview
-<img src="preview.jpg">
+![preview](https://user-images.githubusercontent.com/104723233/221784987-1998f594-8e3f-406e-8735-0dc159d1855f.jpg)
+
