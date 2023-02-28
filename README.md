@@ -10,14 +10,13 @@ The following operations are supported:
 * Subtraction (-)
 * Multiplication (*)
 * Division (/)
-* Clear (C)
+* Delete (DE)
 * All clear (AC)
-* Percentage (%)
+
 
 ## Features
 * The calculator supports basic arithmetic operations.
 * The calculator has a responsive design that adapts to different screen sizes.
-* The calculator supports keyboard input.
 
 ## How it Works
 The calculator is implemented using HTML, CSS and JavaScript. The HTML and CSS are used to create the user interface and the JavaScript is used to implement the functionality of the calculator. The user interface consists of a display section that shows the input and output of the calculations, and a set of buttons that allow the user to enter numbers and perform arithmetic operations.
@@ -25,4 +24,3 @@ The calculator is implemented using HTML, CSS and JavaScript. The HTML and CSS a
 When the user clicks on a button, the JavaScript code reads the input from the display section and updates the display accordingly. The JavaScript code also performs the necessary arithmetic operations and updates the display with the result.
 
 ## Preview
-<img width="960" alt="Screenshot_20230218_175918" src="https://user-images.githubusercontent.com/59678435/219866392-5ed1fa1b-1b09-4684-9b79-51ff5bb7867e.png">
