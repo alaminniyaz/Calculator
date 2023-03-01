@@ -23,14 +23,13 @@ Once the calculator is loaded, the user can enter numbers and perform arithmetic
 - **The calculator supports basic arithmetic operations.**
 - **The calculator has a responsive design that adapts to different screen sizes.**
 
-## Tech Stack
+## Technologies used 🛠️
 
-**Client:** HTML CSS
+- **HTML**
+- **CSS**
+- **Javascript**
 
-**Server:** Javascript
-
-
-## 🔗 Links
+## Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ialamin.netlify.app/)
 
