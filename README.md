@@ -1,11 +1,9 @@
-![calculator](https://user-images.githubusercontent.com/104723233/222131632-6174d900-d3ef-4efa-b085-b0e79efb37e9.jpg)
-
-
 # Calculator
 
 **A simple web-based calculator implemented using HTML, CSS and JavaScript.**
 **This calculator allows the user to perform basic arithmetic operations like addition, subtraction, multiplication, and division.**
 
+![calculator](https://user-images.githubusercontent.com/104723233/222131632-6174d900-d3ef-4efa-b085-b0e79efb37e9.jpg)
 
 ## Usage
 
