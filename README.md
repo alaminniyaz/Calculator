@@ -1,4 +1,5 @@
-![calculator png](https://user-images.githubusercontent.com/104723233/222073119-02781784-2c58-49ec-8204-2c1caca47a79.jpg)
+![calculator](https://user-images.githubusercontent.com/104723233/222131632-6174d900-d3ef-4efa-b085-b0e79efb37e9.jpg)
+
 
 # Calculator
 
