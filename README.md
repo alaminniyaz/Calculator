@@ -1,5 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![calculator png](https://user-images.githubusercontent.com/104723233/222073119-02781784-2c58-49ec-8204-2c1caca47a79.jpg)
 
 # Calculator
 
@@ -7,7 +6,7 @@
 ### This calculator allows the user to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 
-## Usage
+# Usage
 
 #### The calculator can be opened by opening the index.html file in a web browser. 
 #### Once the calculator is loaded, the user can enter numbers and perform arithmetic operations using the buttons provided. 
@@ -21,19 +20,19 @@
 - **Division (/)**
 - **Delete (DE)**
 - **All clear (AC)**
-## Features
+# Features
 
 - **The calculator supports basic arithmetic operations.**
 - **The calculator has a responsive design that adapts to different screen sizes.**
 
-## Tech Stack
+# Tech Stack
 
 **Client:** HTML CSS
 
 **Server:** Javascript
 
 
-## 🔗 Links
+# 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ialamin.netlify.app/)
 
